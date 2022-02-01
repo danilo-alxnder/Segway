@@ -13,31 +13,23 @@ Designing a controller using 20sim and Matlab capable of accomplish:
   c. Drive the segway, turn around and brake.  
   ```
 
-## 
+## Controllers
 * Following the controllers implemented in this model:  
 
-> Pendulum model               models the physics behing free fall of a pendulum object. 
-> Angle PID Controller         controlls the rotation of the wheels of the segway.  
-> Velocity Wheel controller    controlls how fast the wheel of the segway can accelerate. 
-
-* Pacman is able to eat Inky, Pinky, Blinky and Clyde through energizers
-* After a period of time, ghosts come back to normality
-* There is 3 lifes available and fruits are randomly allocated
-* Pacman can exist lef/right in the middle borders of the map 
-
-
-### Running the application
-1. To continue
+> Pendulum model: models the physics behing free fall of a pendulum object.   
+> Angle PID Controller:controlls the rotation of the wheels of the segway.  
+> Velocity Wheel controller: limits how fast the wheel of the segway can accelerate. 
 
 ## Images
-<p align="center">
-<img src="https://user-images.githubusercontent.com/70687643/151679840-1eaf173c-ec47-484d-a002-9551cc58b494.png" width =575">
+<p align="left">
+<img src="https://user-images.githubusercontent.com/70687643/152004347-176ae085-5a5a-4998-baf3-278f300b4252.png" width =365">
+<img src="https://user-images.githubusercontent.com/70687643/152006136-abebd144-b308-4ca4-b869-c897b410f640.png" width =475">
 </p>
+
 
 ## Demo
-To the left, the `.bmp` figures that made up the design of the game. To the right, a small `.gif` showing a demo of the features implemented.
 
-<p align="center">
-<img src="https://user-images.githubusercontent.com/70687643/151680444-1df6dc7d-6d43-43ba-88b8-0f4118dd2872.png" width =460">
-<img src="https://user-images.githubusercontent.com/70687643/151678772-d06a708e-37d0-4267-b599-2a5b26cd513b.gif" width =280">
-</p>
+
+https://user-images.githubusercontent.com/70687643/152005048-658f98d5-b57e-4019-9f46-8f85e9143d7c.mp4
+
+
