@@ -36,6 +36,7 @@ Designing a controller using 20sim and Matlab capable of accomplish:
 
 ## Demo
 
-https://user-images.githubusercontent.com/70687643/152028229-0950d6e7-8605-4e1b-bd71-49cfa2eeedf9.mov
+https://user-images.githubusercontent.com/70687643/152028585-9c39e807-2896-4c27-9af0-7c274018833a.mp4
+
 
 
