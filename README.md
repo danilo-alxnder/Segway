@@ -1,7 +1,9 @@
-# SegwaySystem <img src="https://user-images.githubusercontent.com/70687643/151966365-045f5b31-8008-42da-92f2-6ef38ff32c81.png" width ="35">
+# SegwaySystem <img src="https://user-images.githubusercontent.com/70687643/151966365-045f5b31-8008-42da-92f2-6ef38ff32c81.png" width ="35"> 
+__[Updated: 1 Feb 2022] More detailed explanation to come...__
 
 
-Welcome to the README of SegwaySystem, a built-in controller model of a pendulum system using bond graph theory
+Welcome to the README of SegwaySystem, a built-in controller model of a pendulum system using bond graph theory.
+
 
 ## The Challenge
 Designing a controller using 20sim and Matlab capable of accomplish:
@@ -28,7 +30,6 @@ Designing a controller using 20sim and Matlab capable of accomplish:
 
 
 ## Demo
-
 
 https://user-images.githubusercontent.com/70687643/152005048-658f98d5-b57e-4019-9f46-8f85e9143d7c.mp4
 
