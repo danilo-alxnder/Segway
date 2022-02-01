@@ -23,7 +23,7 @@ Designing a controller using 20sim and Matlab capable of accomplish:
 > Velocity Wheel controller: limits how fast the wheel of the segway can accelerate. 
 
 ## Images
-<p align="left">
+<p align="center">
 <img src="https://user-images.githubusercontent.com/70687643/152004347-176ae085-5a5a-4998-baf3-278f300b4252.png" width =365">
 <img src="https://user-images.githubusercontent.com/70687643/152006136-abebd144-b308-4ca4-b869-c897b410f640.png" width =475">
 </p>
