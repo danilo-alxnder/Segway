@@ -25,7 +25,7 @@ Designing a controller using 20sim and Matlab capable of accomplish:
 ## Images
 <p align="center">
 <img src="https://user-images.githubusercontent.com/70687643/152009300-acf72542-9b4c-4112-b95c-2e52df907e72.png" width =365">
-<img src="https://user-images.githubusercontent.com/70687643/152004347-176ae085-5a5a-4998-baf3-278f300b4252.png" width =365">
+<img src="https://user-images.githubusercontent.com/70687643/152004347-176ae085-5a5a-4998-baf3-278f300b4252.png" width =315">
 </p>
 <p align="center">
 <img src="https://user-images.githubusercontent.com/70687643/152009318-be6bf05c-d3f0-4fd1-9db4-e4ab7eb7b88f.png" width =265">
